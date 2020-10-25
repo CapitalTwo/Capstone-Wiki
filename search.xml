@@ -8,7 +8,7 @@
       <link href="/2020/Week-3-week-of-10-26/"/>
       <url>/2020/Week-3-week-of-10-26/</url>
       
-        <content type="html"><![CDATA[<h3 id="week-3-individual-tasks"><a class="markdownIt-Anchor" href="#week-3-individual-tasks"></a> Week 3 Individual Tasks</h3><p><strong>Ritika</strong></p><ul><li>2 passages + 2 Quiz Prep</li><li>PPT slide for midterm</li></ul><p><strong>Sai</strong></p><ul><li>PPT slide for midterm</li><li>Build function on worker enabling random selection of quiz questions from quiz bank to present to the user</li><li><strong>Optional</strong>:  Finish validation</li></ul><p><strong>Peter</strong></p><ul><li>JS code for Retirement calculation tool</li><li>PPT slide for midterm</li></ul><h3 id="midterm-presentation"><a class="markdownIt-Anchor" href="#midterm-presentation"></a> Midterm Presentation</h3><p>The link to our presentation is <a href="https://uwprod-my.sharepoint.com/:p:/g/personal/sjiang97_wisc_edu/Efh5LwwiIgREjTkL8oiy_5ABqRhLU5RGUIZSThvxg3ny9w?e=fgAQPb" target="_blank" rel="noopener">https://uwprod-my.sharepoint.com/:p:/g/personal/sjiang97_wisc_edu/Efh5LwwiIgREjTkL8oiy_5ABqRhLU5RGUIZSThvxg3ny9w?e=fgAQPb</a>.</p><ul><li>Project overview and Intro (Ritika)</li><li>Talk about your Google Design Sprint - what you did, what you learned, etc. (Ritika and Sai)</li><li>Demo what you’ve completed (Peter)</li><li>Show us your plan for the rest of the semester + extra specifications (Shaokang)</li></ul>]]></content>
+        <content type="html"><![CDATA[<h3 id="week-3-individual-tasks"><a class="markdownIt-Anchor" href="#week-3-individual-tasks"></a> Week 3 Individual Tasks</h3><p><strong>Ritika</strong></p><ul><li>2 passages + 2 Quiz Prep</li><li>PPT slide for midterm</li></ul><p><strong>Sai</strong></p><ul><li>PPT slide for midterm <a id="more"></a></li><li>Build function on worker enabling random selection of quiz questions from quiz bank to present to the user</li><li><strong>Optional</strong>:  Finish validation</li></ul><p><strong>Peter</strong></p><ul><li>JS code for Retirement calculation tool</li><li>PPT slide for midterm</li></ul><h3 id="midterm-presentation"><a class="markdownIt-Anchor" href="#midterm-presentation"></a> Midterm Presentation</h3><p>The link to our presentation is <a href="https://uwprod-my.sharepoint.com/:p:/g/personal/sjiang97_wisc_edu/Efh5LwwiIgREjTkL8oiy_5ABqRhLU5RGUIZSThvxg3ny9w?e=fgAQPb" target="_blank" rel="noopener">here</a>.</p><ul><li>Project overview and Intro (Ritika)</li><li>Talk about your Google Design Sprint - what you did, what you learned, etc. (Ritika and Sai)</li><li>Demo what you’ve completed (Peter)</li><li>Show us your plan for the rest of the semester + extra specifications (Shaokang)</li></ul>]]></content>
       
       
       <categories>
@@ -33,7 +33,7 @@
       <link href="/2020/Week-2-week-of-10-19/"/>
       <url>/2020/Week-2-week-of-10-19/</url>
       
-        <content type="html"><![CDATA[<h3 id="individual-weekly-goals-as-set-collectively-by-the-team"><a class="markdownIt-Anchor" href="#individual-weekly-goals-as-set-collectively-by-the-team"></a> Individual Weekly Goals (as set collectively by the team)</h3><p><strong>Ritika</strong></p><ul><li>4 passages + 4 Quiz Prep</li><li><em><strong>Excel/CSV containing info to connect the passages</strong></em></li><li><em><strong>Update the Weekly-update repository</strong></em></li></ul><p><strong>Sai</strong></p><ul><li><em><strong>Get familiar with Cloudflare worker</strong></em></li><li><em><strong>Build first script that will return a sample quiz</strong></em></li><li><strong>Optional</strong>: create validateAnswer() function</li></ul><p><strong>Peter</strong></p><ul><li>Retirement calculation tool HTML page</li><li>Loan calculation tool HTML page</li><li><em><strong>Replace homepage image (bicycle) and color with a relevant one</strong></em></li><li><strong>Optional</strong>: get started on the tool functions</li></ul><p><strong>Shaokang</strong></p><ul><li>build connection between knowledge passages and quiz page</li><li>basic structure of quiz page</li><li><strong>Optional</strong>: work on worker side user authentication</li></ul><p><strong>Italicized portions are due coming Thursday, October 22, 2020 for smooth progress of the project</strong></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="individual-weekly-goals-as-set-collectively-by-the-team"><a class="markdownIt-Anchor" href="#individual-weekly-goals-as-set-collectively-by-the-team"></a> Individual Weekly Goals (as set collectively by the team)</h3><p><strong>Ritika</strong></p><ul><li>4 passages + 4 Quiz Prep</li><li><em><strong>Excel/CSV containing info to connect the passages</strong></em></li><li><em><strong>Update the Weekly-update repository</strong></em></li></ul><p><strong>Sai</strong></p><ul><li><em><strong>Get familiar with Cloudflare worker</strong></em> <a id="more"></a></li><li><em><strong>Build first script that will return a sample quiz</strong></em></li><li><strong>Optional</strong>: create validateAnswer() function</li></ul><p><strong>Peter</strong></p><ul><li>Retirement calculation tool HTML page</li><li>Loan calculation tool HTML page</li><li><em><strong>Replace homepage image (bicycle) and color with a relevant one</strong></em></li><li><strong>Optional</strong>: get started on the tool functions</li></ul><p><strong>Shaokang</strong></p><ul><li>build connection between knowledge passages and quiz page</li><li>basic structure of quiz page</li><li><strong>Optional</strong>: work on worker side user authentication</li></ul><p><strong>Italicized portions are due coming Thursday, October 22, 2020 for smooth progress of the project</strong></p>]]></content>
       
       
       <categories>
@@ -79,6 +79,31 @@
     
     
     <entry>
+      <title>Share what you learned</title>
+      <link href="/2020/Share-what-you-learned/"/>
+      <url>/2020/Share-what-you-learned/</url>
+      
+        <content type="html"><![CDATA[<img src="/2020/Share-what-you-learned/0001.jpg" title="Homepage"><a id="more"></a><img src="/2020/Share-what-you-learned/0002.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0003.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0004.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0005.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0006.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0007.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0008.jpg" title="Homepage">]]></content>
+      
+      
+      <categories>
+          
+          <category> Development </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Design </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Show us your Prototype</title>
       <link href="/2020/Show-us-your-Prototype/"/>
       <url>/2020/Show-us-your-Prototype/</url>
@@ -109,31 +134,6 @@
       <url>/2020/Tell-us-who-you-interviewed/</url>
       
         <content type="html"><![CDATA[<h3 id="interview-question"><a class="markdownIt-Anchor" href="#interview-question"></a> Interview Question</h3><ol><li>Are you interested in becoming more financially literate?</li><li>Do you currently have access to financial literacy resources?<a id="more"></a></li><li>Rate your financial awareness on the following topics from 1-10<ol><li>Budgeting</li><li>Investing</li><li>Retirement</li><li>Cryptocurrency</li><li>Credit</li><li>Loans</li></ol></li><li>Do you have access to an application that provides you with budgeting, investing, or retirement tools?</li><li>How often do you currently use such tools?</li><li>Would you use them more frequently if they were convenient to access and use?</li><li>Would you be interested in a web application that provides easy access to budgeting tools, as well as all necessary resources to assist you in becoming more financially literate?<!--{cn} dscsdfvdf sdcsdc sdcds--></li></ol><h3 id="questionnaires"><a class="markdownIt-Anchor" href="#questionnaires"></a> Questionnaires</h3><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link</a></p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" title="Questionnaires" width="100%" height="450 pixels"></iframe><h3 id="persons"><a class="markdownIt-Anchor" href="#persons"></a> Persons</h3><p>College Students.</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Development </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Design </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Share what you learned</title>
-      <link href="/2020/Share-what-you-learned/"/>
-      <url>/2020/Share-what-you-learned/</url>
-      
-        <content type="html"><![CDATA[<img src="/2020/Share-what-you-learned/0001.jpg" title="Homepage"><a id="more"></a><img src="/2020/Share-what-you-learned/0002.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0003.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0004.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0005.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0006.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0007.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0008.jpg" title="Homepage">]]></content>
       
       
       <categories>
