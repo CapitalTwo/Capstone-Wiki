@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>Week 3 -- week of 10/26</title>
+      <link href="/2020/Week-3-week-of-10-26/"/>
+      <url>/2020/Week-3-week-of-10-26/</url>
+      
+        <content type="html"><![CDATA[<h3 id="week-3-individual-tasks"><a class="markdownIt-Anchor" href="#week-3-individual-tasks"></a> Week 3 Individual Tasks</h3><p><strong>Ritika</strong></p><ul><li>2 passages + 2 Quiz Prep</li><li>PPT slide for midterm</li></ul><p><strong>Sai</strong></p><ul><li>PPT slide for midterm</li><li>Build function on worker enabling random selection of quiz questions from quiz bank to present to the user</li><li><strong>Optional</strong>:  Finish validation</li></ul><p><strong>Peter</strong></p><ul><li>JS code for Retirement calculation tool</li><li>PPT slide for midterm</li></ul><h3 id="midterm-presentation"><a class="markdownIt-Anchor" href="#midterm-presentation"></a> Midterm Presentation</h3><p>The link to our presentation is <a href="https://uwprod-my.sharepoint.com/:p:/g/personal/sjiang97_wisc_edu/Efh5LwwiIgREjTkL8oiy_5ABqRhLU5RGUIZSThvxg3ny9w?e=fgAQPb" target="_blank" rel="noopener">https://uwprod-my.sharepoint.com/:p:/g/personal/sjiang97_wisc_edu/Efh5LwwiIgREjTkL8oiy_5ABqRhLU5RGUIZSThvxg3ny9w?e=fgAQPb</a>.</p><ul><li>Project overview and Intro (Ritika)</li><li>Talk about your Google Design Sprint - what you did, what you learned, etc. (Ritika and Sai)</li><li>Demo what you’ve completed (Peter)</li><li>Show us your plan for the rest of the semester + extra specifications (Shaokang)</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Development </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Implement </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Week 2 -- week of 10/19</title>
       <link href="/2020/Week-2-week-of-10-19/"/>
       <url>/2020/Week-2-week-of-10-19/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="individual-weekly-goals-as-set-collectively-by-the-team"><a class="markdownIt-Anchor" href="#individual-weekly-goals-as-set-collectively-by-the-team"></a> Individual Weekly Goals (as set collectively by the team)</h3><p><strong>Ritika</strong></p><ul><li>4 passages + 4 Quiz Prep</li><li><em><strong>Excel/CSV containing info to connect the passages</strong></em></li><li><em><strong>Update the Weekly-update repository</strong></em></li></ul><p><strong>Sai</strong></p><ul><li><em><strong>Get familiar with Cloudflare worker</strong></em></li><li><em><strong>Build first script that will return a sample quiz</strong></em></li><li><strong>Optional</strong>: create validateAnswer() function</li></ul><p><strong>Peter</strong></p><ul><li>Retirement calculation tool HTML page</li><li>Loan calculation tool HTML page</li><li><em><strong>Replace homepage image (bicycle) and color with a relevant one</strong></em></li><li><strong>Optional</strong>: get started on the tool functions</li></ul><p><strong>Shaokang</strong></p><ul><li>build connection between knowledge passages and quiz page</li><li>basic structure of quiz page</li><li><strong>Optional</strong>: work on worker side user authentication</li></ul><p><strong>Italicized portions are due coming Thursday, October 22, 2020 for smooth progress of the project</strong></p>]]></content>
       
       
       <categories>
@@ -54,31 +79,6 @@
     
     
     <entry>
-      <title>Share what you learned</title>
-      <link href="/2020/Share-what-you-learned/"/>
-      <url>/2020/Share-what-you-learned/</url>
-      
-        <content type="html"><![CDATA[<img src="/2020/Share-what-you-learned/0001.jpg" title="Homepage"><a id="more"></a><img src="/2020/Share-what-you-learned/0002.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0003.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0004.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0005.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0006.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0007.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0008.jpg" title="Homepage">]]></content>
-      
-      
-      <categories>
-          
-          <category> Development </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Design </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Show us your Prototype</title>
       <link href="/2020/Show-us-your-Prototype/"/>
       <url>/2020/Show-us-your-Prototype/</url>
@@ -109,6 +109,31 @@
       <url>/2020/Tell-us-who-you-interviewed/</url>
       
         <content type="html"><![CDATA[<h3 id="interview-question"><a class="markdownIt-Anchor" href="#interview-question"></a> Interview Question</h3><ol><li>Are you interested in becoming more financially literate?</li><li>Do you currently have access to financial literacy resources?<a id="more"></a></li><li>Rate your financial awareness on the following topics from 1-10<ol><li>Budgeting</li><li>Investing</li><li>Retirement</li><li>Cryptocurrency</li><li>Credit</li><li>Loans</li></ol></li><li>Do you have access to an application that provides you with budgeting, investing, or retirement tools?</li><li>How often do you currently use such tools?</li><li>Would you use them more frequently if they were convenient to access and use?</li><li>Would you be interested in a web application that provides easy access to budgeting tools, as well as all necessary resources to assist you in becoming more financially literate?<!--{cn} dscsdfvdf sdcsdc sdcds--></li></ol><h3 id="questionnaires"><a class="markdownIt-Anchor" href="#questionnaires"></a> Questionnaires</h3><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link</a></p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" title="Questionnaires" width="100%" height="450 pixels"></iframe><h3 id="persons"><a class="markdownIt-Anchor" href="#persons"></a> Persons</h3><p>College Students.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Development </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Design </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Share what you learned</title>
+      <link href="/2020/Share-what-you-learned/"/>
+      <url>/2020/Share-what-you-learned/</url>
+      
+        <content type="html"><![CDATA[<img src="/2020/Share-what-you-learned/0001.jpg" title="Homepage"><a id="more"></a><img src="/2020/Share-what-you-learned/0002.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0003.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0004.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0005.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0006.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0007.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0008.jpg" title="Homepage">]]></content>
       
       
       <categories>
@@ -186,11 +211,11 @@
     
     
     <entry>
-      <title>Design storyboard</title>
-      <link href="/2020/Design-storyboard/"/>
-      <url>/2020/Design-storyboard/</url>
+      <title>Design Sprint</title>
+      <link href="/2020/Notes_from_9_20/"/>
+      <url>/2020/Notes_from_9_20/</url>
       
-        <content type="html"><![CDATA[<h3 id="storyboard"><a class="markdownIt-Anchor" href="#storyboard"></a> StoryBoard</h3><img src="/2020/Design-storyboard/thumbnail_20200924_110403.jpg" title="StoryBoard"><a id="more"></a><h3 id="flowchart"><a class="markdownIt-Anchor" href="#flowchart"></a> Flowchart</h3><img src="/2020/Design-storyboard/1600736219786.png" title="Flowchart"><h4 id="homepage"><a class="markdownIt-Anchor" href="#homepage"></a> Homepage</h4><img src="/2020/Design-storyboard/homepage.jpg" title="Homepage"><h4 id="function-page"><a class="markdownIt-Anchor" href="#function-page"></a> Function Page</h4><img src="/2020/Design-storyboard/functionpage.png" title="Function"><h4 id="knowledge-page"><a class="markdownIt-Anchor" href="#knowledge-page"></a> Knowledge Page</h4><img src="/2020/Design-storyboard/intro.jpg" title="Knowledge"><h4 id="quiz-page"><a class="markdownIt-Anchor" href="#quiz-page"></a> Quiz Page</h4><img src="/2020/Design-storyboard/quizzes_web.jpg" title="Quiz"><h4 id="stock-simulation"><a class="markdownIt-Anchor" href="#stock-simulation"></a> Stock Simulation</h4><img src="/2020/Design-storyboard/stock.jpg" title="stock"><h4 id="point-system"><a class="markdownIt-Anchor" href="#point-system"></a> Point System</h4><img src="/2020/Design-storyboard/point.jpg" title="point"><h4 id="budgeting-tool"><a class="markdownIt-Anchor" href="#budgeting-tool"></a> Budgeting Tool</h4><img src="/2020/Design-storyboard/plan.jpg" title="Budgeting">]]></content>
+        <content type="html"><![CDATA[<p>Capital One #1 Design Sprint Notes</p><ul><li><p>Generate a list of your users - who are they? What are their needs?</p><ul><li><p>College students: Specific group of people in a similar situation</p></li><li><p>Student loans: When to start paying, how to save, how long do they need to pay, what is the interest.</p></li><li><p>Budgeting: Rent, food, electricity, car loans.</p></li><li><p>Credit: Credit cards, APR, Subscriptions.</p></li><li><p>Investing: Stocks, bonds, etc.</p></li><li><p>Retirement: 401k, IRA, Roth IRA.</p></li><li><p>Cryptocurrency: Bitcoin, etc.</p></li></ul></li></ul><a id="more"></a><ul><li><p>Who are your competitors? What have they done in this space?</p><ul><li><p>Mint: General personal finance</p></li><li><p>Truebill: keeps track of expenses and all subscriptions.</p></li><li><p>Cleo: Question and answer based system (Can I afford new shoes?)</p></li></ul></li><li><p>What problem(s) are you solving for your customers?</p><ul><li><p>American young adults don’t have adequate personal finance training</p></li><li><p>Students don’t have enough knowledge about budgeting, saving,investing, borrowing, credit, and risk management.</p></li><li><p>This app can help kids to develop the skills necessary to be responsible about handling money and set them up for success later in life.</p></li></ul></li><li><p>Riskiest assumption</p><ul><li><p>People will choose us instead of one of our competitors. Market saturation is an issue so we need to make our app unique.</p></li><li><p>College students will be interested in personal finance. Needs to be appealing to our age group.</p></li><li><p>Students will come back again after finishing the course material. The app needs to contain resources that are useful regardless of material completion</p></li></ul></li></ul><p><strong>Solution for riskiest assumption</strong></p><ul><li>Create a system where students have reason to go back to the application once the course material is completed<ul><li>Make tools that are useful such as Stock, Budgeting, Retirement, Loan Calculation Tool</li><li>Make the Quiz questions rotate from a question bank</li><li>Point system where you need to complete certain courses before you can have access to higher level courses or unlock exclusive content</li><li>Incentives: Certification from Capital One on successful completion?</li><li>Group exercises, competition among participants,etc.?</li></ul></li></ul>]]></content>
       
       
       <categories>
@@ -211,11 +236,11 @@
     
     
     <entry>
-      <title>Design Sprint</title>
-      <link href="/2020/Notes_from_9_20/"/>
-      <url>/2020/Notes_from_9_20/</url>
+      <title>Design storyboard</title>
+      <link href="/2020/Design-storyboard/"/>
+      <url>/2020/Design-storyboard/</url>
       
-        <content type="html"><![CDATA[<p>Capital One #1 Design Sprint Notes</p><ul><li><p>Generate a list of your users - who are they? What are their needs?</p><ul><li><p>College students: Specific group of people in a similar situation</p></li><li><p>Student loans: When to start paying, how to save, how long do they need to pay, what is the interest.</p></li><li><p>Budgeting: Rent, food, electricity, car loans.</p></li><li><p>Credit: Credit cards, APR, Subscriptions.</p></li><li><p>Investing: Stocks, bonds, etc.</p></li><li><p>Retirement: 401k, IRA, Roth IRA.</p></li><li><p>Cryptocurrency: Bitcoin, etc.</p></li></ul></li></ul><a id="more"></a><ul><li><p>Who are your competitors? What have they done in this space?</p><ul><li><p>Mint: General personal finance</p></li><li><p>Truebill: keeps track of expenses and all subscriptions.</p></li><li><p>Cleo: Question and answer based system (Can I afford new shoes?)</p></li></ul></li><li><p>What problem(s) are you solving for your customers?</p><ul><li><p>American young adults don’t have adequate personal finance training</p></li><li><p>Students don’t have enough knowledge about budgeting, saving,investing, borrowing, credit, and risk management.</p></li><li><p>This app can help kids to develop the skills necessary to be responsible about handling money and set them up for success later in life.</p></li></ul></li><li><p>Riskiest assumption</p><ul><li><p>People will choose us instead of one of our competitors. Market saturation is an issue so we need to make our app unique.</p></li><li><p>College students will be interested in personal finance. Needs to be appealing to our age group.</p></li><li><p>Students will come back again after finishing the course material. The app needs to contain resources that are useful regardless of material completion</p></li></ul></li></ul><p><strong>Solution for riskiest assumption</strong></p><ul><li>Create a system where students have reason to go back to the application once the course material is completed<ul><li>Make tools that are useful such as Stock, Budgeting, Retirement, Loan Calculation Tool</li><li>Make the Quiz questions rotate from a question bank</li><li>Point system where you need to complete certain courses before you can have access to higher level courses or unlock exclusive content</li><li>Incentives: Certification from Capital One on successful completion?</li><li>Group exercises, competition among participants,etc.?</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h3 id="storyboard"><a class="markdownIt-Anchor" href="#storyboard"></a> StoryBoard</h3><img src="/2020/Design-storyboard/thumbnail_20200924_110403.jpg" title="StoryBoard"><a id="more"></a><h3 id="flowchart"><a class="markdownIt-Anchor" href="#flowchart"></a> Flowchart</h3><img src="/2020/Design-storyboard/1600736219786.png" title="Flowchart"><h4 id="homepage"><a class="markdownIt-Anchor" href="#homepage"></a> Homepage</h4><img src="/2020/Design-storyboard/homepage.jpg" title="Homepage"><h4 id="function-page"><a class="markdownIt-Anchor" href="#function-page"></a> Function Page</h4><img src="/2020/Design-storyboard/functionpage.png" title="Function"><h4 id="knowledge-page"><a class="markdownIt-Anchor" href="#knowledge-page"></a> Knowledge Page</h4><img src="/2020/Design-storyboard/intro.jpg" title="Knowledge"><h4 id="quiz-page"><a class="markdownIt-Anchor" href="#quiz-page"></a> Quiz Page</h4><img src="/2020/Design-storyboard/quizzes_web.jpg" title="Quiz"><h4 id="stock-simulation"><a class="markdownIt-Anchor" href="#stock-simulation"></a> Stock Simulation</h4><img src="/2020/Design-storyboard/stock.jpg" title="stock"><h4 id="point-system"><a class="markdownIt-Anchor" href="#point-system"></a> Point System</h4><img src="/2020/Design-storyboard/point.jpg" title="point"><h4 id="budgeting-tool"><a class="markdownIt-Anchor" href="#budgeting-tool"></a> Budgeting Tool</h4><img src="/2020/Design-storyboard/plan.jpg" title="Budgeting">]]></content>
       
       
       <categories>
