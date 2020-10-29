@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Midterm</title>
+      <link href="/2020/Midterm/"/>
+      <url>/2020/Midterm/</url>
+      
+        <content type="html"><![CDATA[<p>The page for midterm presentation</p><h3 id="slide"><a class="markdownIt-Anchor" href="#slide"></a> Slide</h3><iframe src="https://uwprod-my.sharepoint.com/personal/sjiang97_wisc_edu/_layouts/15/Doc.aspx?sourcedoc={0c2f79f8-2222-4404-8d39-0bf288b2ff90}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="90%" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe><h3 id="technique-specification"><a class="markdownIt-Anchor" href="#technique-specification"></a> Technique Specification</h3><div class="row">    <embed src="./1_new.pdf" width="100%" height="550" type="application/pdf"></div><h3 id="plan"><a class="markdownIt-Anchor" href="#plan"></a> Plan</h3><iframe width="90%" height="500" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=C4FE7ED776152B7%21179112&authkey=%21AIBpqBFVsOqASe0&em=2&wdAllowInteractivity=False&wdInConfigurator=True"></iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> Development </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Implement </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Week 3 -- week of 10/26</title>
       <link href="/2020/Week-3-week-of-10-26/"/>
       <url>/2020/Week-3-week-of-10-26/</url>
@@ -79,11 +104,11 @@
     
     
     <entry>
-      <title>Share what you learned</title>
-      <link href="/2020/Share-what-you-learned/"/>
-      <url>/2020/Share-what-you-learned/</url>
+      <title>Show us your Prototype</title>
+      <link href="/2020/Show-us-your-Prototype/"/>
+      <url>/2020/Show-us-your-Prototype/</url>
       
-        <content type="html"><![CDATA[<img src="/2020/Share-what-you-learned/0001.jpg" title="Homepage"><a id="more"></a><img src="/2020/Share-what-you-learned/0002.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0003.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0004.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0005.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0006.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0007.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0008.jpg" title="Homepage">]]></content>
+        <content type="html"><![CDATA[<h3 id="homepage"><a class="markdownIt-Anchor" href="#homepage"></a> Homepage</h3><img src="/2020/Show-us-your-Prototype/homepage.jpg" title="Homepage"><a id="more"></a><h3 id="function-page"><a class="markdownIt-Anchor" href="#function-page"></a> Function Page</h3><img src="/2020/Show-us-your-Prototype/functionpage.png" title="Function"><h3 id="knowledge-page"><a class="markdownIt-Anchor" href="#knowledge-page"></a> Knowledge Page</h3><img src="/2020/Show-us-your-Prototype/intro.jpg" title="Knowledge"><h3 id="quiz-page"><a class="markdownIt-Anchor" href="#quiz-page"></a> Quiz Page</h3><img src="/2020/Show-us-your-Prototype/quizzes_web.jpg" title="Quiz"><h3 id="stock-simulation"><a class="markdownIt-Anchor" href="#stock-simulation"></a> Stock Simulation</h3><img src="/2020/Show-us-your-Prototype/stock.jpg" title="stock"><h3 id="point-system"><a class="markdownIt-Anchor" href="#point-system"></a> Point System</h3><img src="/2020/Show-us-your-Prototype/point.jpg" title="point"><h3 id="budgeting-tool"><a class="markdownIt-Anchor" href="#budgeting-tool"></a> Budgeting Tool</h3><img src="/2020/Show-us-your-Prototype/plan.jpg" title="Budgeting"><h3 id="loan-calculation-tool"><a class="markdownIt-Anchor" href="#loan-calculation-tool"></a> Loan Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6129.jpeg" title="Loan"><h3 id="retirement-calculation-tool"><a class="markdownIt-Anchor" href="#retirement-calculation-tool"></a> Retirement Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6130.jpeg" title="retirement">]]></content>
       
       
       <categories>
@@ -104,11 +129,11 @@
     
     
     <entry>
-      <title>Show us your Prototype</title>
-      <link href="/2020/Show-us-your-Prototype/"/>
-      <url>/2020/Show-us-your-Prototype/</url>
+      <title>Share what you learned</title>
+      <link href="/2020/Share-what-you-learned/"/>
+      <url>/2020/Share-what-you-learned/</url>
       
-        <content type="html"><![CDATA[<h3 id="homepage"><a class="markdownIt-Anchor" href="#homepage"></a> Homepage</h3><img src="/2020/Show-us-your-Prototype/homepage.jpg" title="Homepage"><a id="more"></a><h3 id="function-page"><a class="markdownIt-Anchor" href="#function-page"></a> Function Page</h3><img src="/2020/Show-us-your-Prototype/functionpage.png" title="Function"><h3 id="knowledge-page"><a class="markdownIt-Anchor" href="#knowledge-page"></a> Knowledge Page</h3><img src="/2020/Show-us-your-Prototype/intro.jpg" title="Knowledge"><h3 id="quiz-page"><a class="markdownIt-Anchor" href="#quiz-page"></a> Quiz Page</h3><img src="/2020/Show-us-your-Prototype/quizzes_web.jpg" title="Quiz"><h3 id="stock-simulation"><a class="markdownIt-Anchor" href="#stock-simulation"></a> Stock Simulation</h3><img src="/2020/Show-us-your-Prototype/stock.jpg" title="stock"><h3 id="point-system"><a class="markdownIt-Anchor" href="#point-system"></a> Point System</h3><img src="/2020/Show-us-your-Prototype/point.jpg" title="point"><h3 id="budgeting-tool"><a class="markdownIt-Anchor" href="#budgeting-tool"></a> Budgeting Tool</h3><img src="/2020/Show-us-your-Prototype/plan.jpg" title="Budgeting"><h3 id="loan-calculation-tool"><a class="markdownIt-Anchor" href="#loan-calculation-tool"></a> Loan Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6129.jpeg" title="Loan"><h3 id="retirement-calculation-tool"><a class="markdownIt-Anchor" href="#retirement-calculation-tool"></a> Retirement Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6130.jpeg" title="retirement">]]></content>
+        <content type="html"><![CDATA[<img src="/2020/Share-what-you-learned/0001.jpg" title="Homepage"><a id="more"></a><img src="/2020/Share-what-you-learned/0002.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0003.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0004.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0005.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0006.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0007.jpg" title="Homepage"><img src="/2020/Share-what-you-learned/0008.jpg" title="Homepage">]]></content>
       
       
       <categories>
