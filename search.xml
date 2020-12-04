@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Week-8</title>
+      <link href="/2020/Week-8/"/>
+      <url>/2020/Week-8/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Week-6</title>
       <link href="/2020/Week-6/"/>
       <url>/2020/Week-6/</url>
@@ -180,11 +193,11 @@
     
     
     <entry>
-      <title>Tell us who you interviewed</title>
-      <link href="/2020/Tell-us-who-you-interviewed/"/>
-      <url>/2020/Tell-us-who-you-interviewed/</url>
+      <title>Show us your Prototype</title>
+      <link href="/2020/Show-us-your-Prototype/"/>
+      <url>/2020/Show-us-your-Prototype/</url>
       
-        <content type="html"><![CDATA[<h3 id="interview-question"><a class="markdownIt-Anchor" href="#interview-question"></a> Interview Question</h3><ol><li>Are you interested in becoming more financially literate?</li><li>Do you currently have access to financial literacy resources?<a id="more"></a></li><li>Rate your financial awareness on the following topics from 1-10<ol><li>Budgeting</li><li>Investing</li><li>Retirement</li><li>Cryptocurrency</li><li>Credit</li><li>Loans</li></ol></li><li>Do you have access to an application that provides you with budgeting, investing, or retirement tools?</li><li>How often do you currently use such tools?</li><li>Would you use them more frequently if they were convenient to access and use?</li><li>Would you be interested in a web application that provides easy access to budgeting tools, as well as all necessary resources to assist you in becoming more financially literate?</li></ol><h3 id="questionnaires"><a class="markdownIt-Anchor" href="#questionnaires"></a> Questionnaires</h3><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link</a></p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" title="Questionnaires" width="100%" height="450 pixels"></iframe><h3 id="persons"><a class="markdownIt-Anchor" href="#persons"></a> Persons</h3><p>College Students.</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="homepage"><a class="markdownIt-Anchor" href="#homepage"></a> Homepage</h3><img src="/2020/Show-us-your-Prototype/homepage.jpg" title="Homepage"><a id="more"></a><h3 id="function-page"><a class="markdownIt-Anchor" href="#function-page"></a> Function Page</h3><img src="/2020/Show-us-your-Prototype/functionpage.png" title="Function"><h3 id="knowledge-page"><a class="markdownIt-Anchor" href="#knowledge-page"></a> Knowledge Page</h3><img src="/2020/Show-us-your-Prototype/intro.jpg" title="Knowledge"><h3 id="quiz-page"><a class="markdownIt-Anchor" href="#quiz-page"></a> Quiz Page</h3><img src="/2020/Show-us-your-Prototype/quizzes_web.jpg" title="Quiz"><h3 id="stock-simulation"><a class="markdownIt-Anchor" href="#stock-simulation"></a> Stock Simulation</h3><img src="/2020/Show-us-your-Prototype/stock.jpg" title="stock"><h3 id="point-system"><a class="markdownIt-Anchor" href="#point-system"></a> Point System</h3><img src="/2020/Show-us-your-Prototype/point.jpg" title="point"><h3 id="budgeting-tool"><a class="markdownIt-Anchor" href="#budgeting-tool"></a> Budgeting Tool</h3><img src="/2020/Show-us-your-Prototype/plan.jpg" title="Budgeting"><h3 id="loan-calculation-tool"><a class="markdownIt-Anchor" href="#loan-calculation-tool"></a> Loan Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6129.jpeg" title="Loan"><h3 id="retirement-calculation-tool"><a class="markdownIt-Anchor" href="#retirement-calculation-tool"></a> Retirement Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6130.jpeg" title="retirement">]]></content>
       
       
       <categories>
@@ -205,11 +218,11 @@
     
     
     <entry>
-      <title>Show us your Prototype</title>
-      <link href="/2020/Show-us-your-Prototype/"/>
-      <url>/2020/Show-us-your-Prototype/</url>
+      <title>Tell us who you interviewed</title>
+      <link href="/2020/Tell-us-who-you-interviewed/"/>
+      <url>/2020/Tell-us-who-you-interviewed/</url>
       
-        <content type="html"><![CDATA[<h3 id="homepage"><a class="markdownIt-Anchor" href="#homepage"></a> Homepage</h3><img src="/2020/Show-us-your-Prototype/homepage.jpg" title="Homepage"><a id="more"></a><h3 id="function-page"><a class="markdownIt-Anchor" href="#function-page"></a> Function Page</h3><img src="/2020/Show-us-your-Prototype/functionpage.png" title="Function"><h3 id="knowledge-page"><a class="markdownIt-Anchor" href="#knowledge-page"></a> Knowledge Page</h3><img src="/2020/Show-us-your-Prototype/intro.jpg" title="Knowledge"><h3 id="quiz-page"><a class="markdownIt-Anchor" href="#quiz-page"></a> Quiz Page</h3><img src="/2020/Show-us-your-Prototype/quizzes_web.jpg" title="Quiz"><h3 id="stock-simulation"><a class="markdownIt-Anchor" href="#stock-simulation"></a> Stock Simulation</h3><img src="/2020/Show-us-your-Prototype/stock.jpg" title="stock"><h3 id="point-system"><a class="markdownIt-Anchor" href="#point-system"></a> Point System</h3><img src="/2020/Show-us-your-Prototype/point.jpg" title="point"><h3 id="budgeting-tool"><a class="markdownIt-Anchor" href="#budgeting-tool"></a> Budgeting Tool</h3><img src="/2020/Show-us-your-Prototype/plan.jpg" title="Budgeting"><h3 id="loan-calculation-tool"><a class="markdownIt-Anchor" href="#loan-calculation-tool"></a> Loan Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6129.jpeg" title="Loan"><h3 id="retirement-calculation-tool"><a class="markdownIt-Anchor" href="#retirement-calculation-tool"></a> Retirement Calculation Tool</h3><img src="/2020/Show-us-your-Prototype/IMG_6130.jpeg" title="retirement">]]></content>
+        <content type="html"><![CDATA[<h3 id="interview-question"><a class="markdownIt-Anchor" href="#interview-question"></a> Interview Question</h3><ol><li>Are you interested in becoming more financially literate?</li><li>Do you currently have access to financial literacy resources?<a id="more"></a></li><li>Rate your financial awareness on the following topics from 1-10<ol><li>Budgeting</li><li>Investing</li><li>Retirement</li><li>Cryptocurrency</li><li>Credit</li><li>Loans</li></ol></li><li>Do you have access to an application that provides you with budgeting, investing, or retirement tools?</li><li>How often do you currently use such tools?</li><li>Would you use them more frequently if they were convenient to access and use?</li><li>Would you be interested in a web application that provides easy access to budgeting tools, as well as all necessary resources to assist you in becoming more financially literate?</li></ol><h3 id="questionnaires"><a class="markdownIt-Anchor" href="#questionnaires"></a> Questionnaires</h3><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link</a></p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeIQZNBcicL01lptHL_VDwL5u9KR6iDYFNE-ElCjMQ88VDBDQ/viewform?usp=sf_link" title="Questionnaires" width="100%" height="450 pixels"></iframe><h3 id="persons"><a class="markdownIt-Anchor" href="#persons"></a> Persons</h3><p>College Students.</p>]]></content>
       
       
       <categories>
